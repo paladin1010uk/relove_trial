@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/back-app.js",
     "dev": "nodemon src/back-app.js -e js,hbs"
   },
   "author": "",
